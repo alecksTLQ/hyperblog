@@ -2,3 +2,4 @@
 Para iniciar un repositorio, o sea, activar el sistema de control de versiones de Git 
 en tu proyecto, solo debes ejecutar el comando git init.
 
+cambio para probar el checkout en git 
