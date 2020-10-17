@@ -4,4 +4,10 @@ en tu proyecto, solo debes ejecutar el comando git init.
 
 cambio para probar el checkout en git 
 
+<<<<<<< HEAD
 otra linea para difernciar los cambios
+=======
+otra linea para difernciar los cambios
+
+linea para probar git reset head
+>>>>>>> cabecera
